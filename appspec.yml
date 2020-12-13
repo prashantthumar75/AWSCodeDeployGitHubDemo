@@ -1,7 +1,7 @@
 version: 0.0
 os: windows
 files:
-  - source: \index.html
+  - source: \
     destination: C:\inetpub\wwwroot
 hooks:
   BeforeInstall:
